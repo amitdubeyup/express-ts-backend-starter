@@ -1,4 +1,4 @@
-# boilerplate
+# express-ts-backend-starter
 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -21,8 +21,8 @@ Secure, scalable Express + PostgreSQL API for users and passbooks with JWT authe
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/boilerplate.git
-cd boilerplate
+git clone https://github.com/amitdubeyup/express-ts-backend-starter.git
+cd express-ts-backend-starter
 
 # Install dependencies
 npm install
@@ -58,7 +58,7 @@ npm run build
 ## 📁 Project Structure
 
 ```
-boilerplate/
+express-ts-backend-starter/
 ├── src/
 ├── dist/
 ├── package.json

@@ -12,9 +12,6 @@ Server-side application built with Express, TypeScript, managing core logic and 
 ## 🛠️ Tech Stack
 *   **Node.js, Express, TypeScript**
 
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
-
 ## 📦 Installation
 
 1.  **Clone the repository**:
@@ -29,6 +26,9 @@ Server-side application built with Express, TypeScript, managing core logic and 
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
